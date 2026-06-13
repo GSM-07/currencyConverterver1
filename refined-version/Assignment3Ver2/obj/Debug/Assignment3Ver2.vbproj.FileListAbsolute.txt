@@ -1,0 +1,29 @@
+C:\Users\11195025\source\repos\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.AssemblyReference.cache
+C:\Users\11195025\source\repos\Assignment3Ver2\obj\Debug\Assignment3Ver2.Form1.resources
+C:\Users\11195025\source\repos\Assignment3Ver2\obj\Debug\Assignment3Ver2.Resources.resources
+C:\Users\11195025\source\repos\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.GenerateResource.cache
+C:\Users\11195025\source\repos\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.CoreCompileInputs.cache
+C:\Users\11195025\Documents\Assignment3Ver2\bin\Debug\Assignment3Ver2.exe.config
+C:\Users\11195025\Documents\Assignment3Ver2\bin\Debug\Assignment3Ver2.exe
+C:\Users\11195025\Documents\Assignment3Ver2\bin\Debug\Assignment3Ver2.pdb
+C:\Users\11195025\Documents\Assignment3Ver2\bin\Debug\Assignment3Ver2.xml
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.AssemblyReference.cache
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.Form1.resources
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.Resources.resources
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.GenerateResource.cache
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.CoreCompileInputs.cache
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.exe
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.xml
+C:\Users\11195025\Documents\Assignment3Ver2\obj\Debug\Assignment3Ver2.pdb
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\bin\Debug\Assignment3Ver2.exe.config
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\bin\Debug\Assignment3Ver2.exe
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\bin\Debug\Assignment3Ver2.pdb
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\bin\Debug\Assignment3Ver2.xml
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.AssemblyReference.cache
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.Form1.resources
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.Resources.resources
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.GenerateResource.cache
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.vbproj.CoreCompileInputs.cache
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.exe
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.xml
+C:\Users\GABRIELLE SOPHIA\Downloads\Assignment3Ver2-20260612T133219Z-3-001\Assignment3Ver2\obj\Debug\Assignment3Ver2.pdb
